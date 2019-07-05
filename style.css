@@ -1,28 +1,7 @@
-#navbar{
-    background-color: #FAD94A;
-    content-box:
-}
 #logo{
-width: 80px;
-position: relative;
-left: 30px;
-top: 50px;
+    width: 50px;
 }
-#menu{
+#copyright{
     position: relative;
-    left: 150px;
-    bottom: 60px;
-}
-.nav2{
-    position: relative;
-    left: 80px;
-}
-.nav1{
-    position: relative;
-    top: 40px;
-}
-#search{
-    position: relative;
-    left: 1000px;
-    bottom: 98px;
+    top: 550px;
 }
